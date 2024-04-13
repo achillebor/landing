@@ -1,0 +1,12 @@
+.btn-primary {
+    padding: 10px 20px;
+    background-color: rgb(0, 0, 0, 0.2); /* Primary color of your choice */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Roboto;
+    transition: color 0.3s ease;
+    /* You may want to add more styles here */
+
+}
